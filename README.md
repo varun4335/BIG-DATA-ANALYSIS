@@ -39,3 +39,7 @@ With Caching: cache() is used to keep intermediate results in memory, avoiding r
 With Repartitioning: The data is repartitioned using repartition() by pickup_hour to optimize parallel processing across Spark executors.
 
 This project provides hands-on experience in using PySpark for large-scale data analysis. It clearly demonstrates how simple optimizations such as caching and repartitioning can drastically improve performance. 
+
+# OUTPUT:
+
+https://github.com/user-attachments/assets/553e5f2a-ece1-4dd0-a368-23866afeb7f8
